@@ -12,7 +12,7 @@ This project is a simple yet effective **Student Record Management System** impl
 
 ## How to Run
 1. Clone or download the repository.
-2. Compile the code using a C++ compiler (e.g., g++).
+2. Compile the code using a C++ compiler (e.g. Dev C).
 3. Run the executable to start the system.
 
 ## Requirements
